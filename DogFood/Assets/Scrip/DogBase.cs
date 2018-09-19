@@ -7,9 +7,27 @@ using UnityEngine;
 /// </summary>
 public class DogBase : MonoBehaviour {
 
+    /// <summary>
+    ///  DogName
+    /// </summary>
     private string dogname;
 
+    /// <summary>
+    ///  
+    /// </summary>
     private DogType dogtype;
+
+    /// <summary>
+    ///小狗的移动速度
+    /// </summary>
+    private float DogMoveSpeed;
+    
+    /// <summary>
+    /// 
+    /// </summary>
+   //   private float DogMoveSpeed;
+
+
 
     public  string  DogName
     {

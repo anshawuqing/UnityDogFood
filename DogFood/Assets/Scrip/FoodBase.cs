@@ -7,16 +7,33 @@ using UnityEngine;
 /// </summary>
 public class FoodBase : MonoBehaviour {
 
+
+    /// <summary>
+    ///  food id
+    /// </summary>
     private string foodid;
 
+    /// <summary>
+    //食物的分数
+   /// </summary>
     private int foodscore;
 
+    /// <summary>
+    /// food  type
+    /// </summary>
     private FoodType foodtype;
-
+  
+    /// <summary>
+    /// food 的实例
+    /// </summary>
     private GameObject foodobj;
-
+ 
+    /// <summary>
+    ///  食物的材质
+    /// </summary>
     private Material foodmateril;
 
+    
 
     /// <summary>
     ///食物的 ID
