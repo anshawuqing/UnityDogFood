@@ -27,6 +27,15 @@ namespace DemoProject
         public const string MARKET_UIFORM = "MarketUIFrom";
 
 
+        /// <summary>
+        ///商店界面 
+        /// </summary>
+        public const string STOREUIFORM = "StoreUIForm";
+        /// <summary>
+        /// 
+        /// </summary>
+        public const string PACKAGEUIFORM  = "PackageUIForm";
+        public const string ACTIVITYUIFORM = "ActivityUIForm";
 	    /* 常量定义： 其他 */
 
 	}

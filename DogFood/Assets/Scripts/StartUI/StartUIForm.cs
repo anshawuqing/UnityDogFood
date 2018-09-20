@@ -15,8 +15,6 @@ public class StartUIForm :BaseUIForm {
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.Normal;
 
             
-         
-        
     }
     // Use this for initialization
     void Start () {
